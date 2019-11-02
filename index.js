@@ -8,5 +8,5 @@ let random = Math.floor( Math.random() * 10 ) + 1
 
 let mod = 16 % 6
 
-let max = Math.max( 5, 10, 15, 20 )
+let max = Math.max( 2, 10,18 , 20 )
 
