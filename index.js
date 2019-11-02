@@ -4,7 +4,7 @@ num2 = 31
 
 let multiple = num1*num2 
 
-let random = Math.floor( Math.random() * 1000 ) + 1
+let random = Math.floor( Math.random() * 10 ) + 1
 
 let mod = 16 % 6
 
