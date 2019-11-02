@@ -8,7 +8,7 @@
 
 // const mod = 16 % 6
 
-// const  max = Math.max( 2, 10,18 , 20 )
+// const  max = Math.max( 20, 10,18, 2 )
 
 const num1 = 2
 const num2 = 31
